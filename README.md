@@ -1,2 +1,2 @@
 # Bank-loan-Anaysis
-r Bank Loan Analysis Project shows end-to-end skills:  Excel → Quick reporting &amp; cleaning.  SQL → Strong backend analysis.  Power BI → Interactive dashboards for decision-making.
+.The goal of this project is to analyze bank loan data to understand loan distribution, repayment behavior, defaults, and overall performance. This helps the bank identify good loans vs risky loans, measure profitability, and make data-driven lending decisions. Bank Loan Analysis Project shows end-to-end skills:  Excel → Quick reporting &amp; cleaning.  SQL → Strong backend analysis.  Power BI → Interactive dashboards for decision-making.
